@@ -2,7 +2,7 @@
 Genomic survey of 82 giant bacteria (Beggiatoa, Thioploca, Thiomargarita, Epulonipiscium) revealing ARGs, BGCs, prophages, plasmids, and defensive-metabolic islands
 ## Overview
 
-This repository contains data and supplementary materials from the manuscript:
+This repository contains data from the manuscript:
 
 **"Genomic diversification of giant bacteria: Antimicrobial resistance, secondary metabolites, and phage-host coevolution in free-living and symbiotic lineages"**
 
@@ -21,22 +21,7 @@ This study presents a comprehensive genomic survey of 82 assemblies from six gen
 - `prophages_annotation.xlsx` — Functional annotation of prophage genes
 
 ### /msa_phage_proteins/
-Multiple sequence alignments (FASTA format) of core phage proteins used for HyPhy co-evolutionary analysis:
-
-- `capsid_alignment.fasta` — Major capsid protein
-- `portal_alignment.fasta` — Portal protein
-- `terminase_alignment.fasta` — Terminase large subunit
-- `endolysin_alignment.fasta` — Endolysin (includes bacterial homologs)
-- `holin_alignment.fasta` — Holin
-- `tail_tapemeasure_alignment.fasta` — Tail tape measure protein
-
-### /supplementary/
-- `Supplementary_Material_1.xlsx` — List of all genome assemblies
-- `Supplementary_Material_2.xlsx` — Complete ARG annotations
-- `Supplementary_Material_3.xlsx` — Complete BGC inventories
-- `Supplementary_Material_4.xlsx` — Cas protein and defense module inventories
-- `Supplementary_Material_5.xlsx` — Functional genomic islands
-- `Supplementary_Material_6.xlsx` — VIRIDIC intergenomic similarity matrix
+Multiple sequence alignments (FASTA format) of core phage proteins used for HyPhy co-evolutionary analysis
 
 ## Methods Summary
 
