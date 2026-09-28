@@ -4,11 +4,11 @@ Genomic survey of 82 giant bacteria (Beggiatoa, Thioploca, Thiomargarita, Epulon
 
 This repository contains data from the manuscript:
 
-**"Genomic diversification of giant bacteria: Antimicrobial resistance, secondary metabolites, and phage-host coevolution in free-living and symbiotic lineages"**
+**"Accessory genome evolution in giant bacteria: Antimicrobial resistance, secondary metabolism, and phage–host coevolution in free-living and symbiotic lineages"**
 
 Mohammadreza Rahimian
 
-This study presents a comprehensive genomic survey of 82 assemblies from six genera of giant bacteria: *Beggiatoa*, *Thioploca*, *Thiomargarita*, *Candidatus* Epulonipiscium, *Candidatus* Epulonipiscioides, and *Candidatus* Parepulonipiscium.
+This study presents a comprehensive genomic survey of 82 assemblies from six genera of giant bacteria: *Beggiatoa*, *Thioploca*, *Thiomargarita*, *Candidatus* Thiomargarita, *Epulonipiscium*, *Candidatus* Epulonipiscium, *Candidatus* Epulonipiscioides, and *Candidatus* Parepulonipiscium.
 
 ## Repository Contents
 
